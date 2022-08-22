@@ -1,0 +1,54 @@
+
+h1 {
+    color: purple;
+    text-shadow: 3px 2px LightGray;
+    
+    
+}
+h3{
+    color: Tomato;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-30%);
+   
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+p{
+	color: Tomato;
+}
+h4 {
+    color: dodgerblue;
+
+}
+
+p.link{
+	color: DodgerBlue;
+}
+
+h2 {
+    color:yellowgreen;
+
+}
